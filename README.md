@@ -95,9 +95,3 @@ Durante o desenvolvimento, foram utilizados diferentes padrões e abordagens:
 - Refatorações contínuas seguindo padrões de mercado
 
 O objetivo é preparar o código para um padrão profissional de desenvolvimento.
-
-
-
-
-### 👤 Usuário
-
